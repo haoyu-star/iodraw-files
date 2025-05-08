@@ -258,7 +258,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JiCuVlNNscT5u4SwGuAm-141" value="Input Channel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="367.5" y="70" width="115" height="30" as="geometry" />
+          <mxGeometry x="560" y="-24" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JiCuVlNNscT5u4SwGuAm-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JiCuVlNNscT5u4SwGuAm-147" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -268,12 +268,16 @@
         </mxCell>
         <mxCell id="JiCuVlNNscT5u4SwGuAm-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="-50" as="targetPoint" />
-            <mxPoint x="220" y="-50" as="sourcePoint" />
+            <mxPoint x="76" y="-123" as="targetPoint" />
+            <mxPoint x="136" y="-123" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="136" y="-276" />
+              <mxPoint x="76" y="-276" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JiCuVlNNscT5u4SwGuAm-147" value="Output Channel（Pruned）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;direction=east;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="-65" width="115" height="30" as="geometry" />
+          <mxGeometry x="259" y="-223" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JiCuVlNNscT5u4SwGuAm-150" value="FIFO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-250" y="205" width="60" height="20" as="geometry" />
