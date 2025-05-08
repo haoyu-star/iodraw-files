@@ -241,16 +241,20 @@
         <mxCell id="JiCuVlNNscT5u4SwGuAm-128" value="pS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-620" y="622.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JiCuVlNNscT5u4SwGuAm-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JiCuVlNNscT5u4SwGuAm-141" edge="1">
+        <mxCell id="JiCuVlNNscT5u4SwGuAm-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="424.75" y="205" as="targetPoint" />
-            <mxPoint x="425" y="150" as="sourcePoint" />
+            <mxPoint x="567" y="190" as="targetPoint" />
+            <mxPoint x="567.25" y="127.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="567.25" y="14" />
+              <mxPoint x="567.25" y="14" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JiCuVlNNscT5u4SwGuAm-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JiCuVlNNscT5u4SwGuAm-141" edge="1">
+        <mxCell id="JiCuVlNNscT5u4SwGuAm-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="424.75" y="-35" as="targetPoint" />
-            <mxPoint x="424.7500000000002" y="19.999999999999773" as="sourcePoint" />
+            <mxPoint x="567" y="-50" as="targetPoint" />
+            <mxPoint x="567.25" y="12.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JiCuVlNNscT5u4SwGuAm-141" value="Input Channel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
