@@ -229,7 +229,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JiCuVlNNscT5u4SwGuAm-126" value="weight" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-580" y="574" width="60" height="30" as="geometry" />
+          <mxGeometry x="-750" y="549" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JiCuVlNNscT5u4SwGuAm-128" value="pS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-660" y="589" width="60" height="30" as="geometry" />
