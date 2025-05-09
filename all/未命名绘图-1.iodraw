@@ -928,6 +928,9 @@
             <mxPoint x="830" y="296.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JTatENgO82JoFKEvwUGx-4" value="&lt;font color=&quot;#001dbc&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Input Coord.&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 9px;&quot;&gt;&lt;font color=&quot;#001dbc&quot; style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;(COO)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;direction=east;flipH=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="664" y="243" width="65" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
