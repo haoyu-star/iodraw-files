@@ -227,6 +227,9 @@
         <mxCell id="JiCuVlNNscT5u4SwGuAm-116" value="Input Coordinate Buffer" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="-330" y="80" width="170" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="JTatENgO82JoFKEvwUGx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="JiCuVlNNscT5u4SwGuAm-121" target="JiCuVlNNscT5u4SwGuAm-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JiCuVlNNscT5u4SwGuAm-121" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;rotation=-91;" parent="1" vertex="1">
           <mxGeometry x="-761" y="579" width="40" height="20" as="geometry" />
         </mxCell>
