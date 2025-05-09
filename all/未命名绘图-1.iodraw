@@ -196,7 +196,7 @@
           <mxGeometry x="-780" y="550" width="160" height="155" as="geometry" />
         </mxCell>
         <mxCell id="JiCuVlNNscT5u4SwGuAm-102" value="LRF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-725" y="676" width="30" height="30" as="geometry" />
+          <mxGeometry x="-738" y="660" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JiCuVlNNscT5u4SwGuAm-103" value="" style="html=1;shape=mxgraph.sysml.flowFinal;strokeWidth=1;verticalLabelPosition=bottom;verticalAlignment=top;" parent="1" vertex="1">
           <mxGeometry x="-670" y="586.5" width="20" height="20" as="geometry" />
@@ -215,9 +215,7 @@
             <mxPoint x="-670" y="620" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-729" y="616" />
-              <mxPoint x="-710" y="616" />
-              <mxPoint x="-710" y="666" />
-              <mxPoint x="-670" y="666" />
+              <mxPoint x="-670" y="616" />
             </Array>
           </mxGeometry>
         </mxCell>
