@@ -224,12 +224,6 @@
             <mxPoint x="-750.9984769515639" y="586.504524064373" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JiCuVlNNscT5u4SwGuAm-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-827" y="556.5" as="sourcePoint" />
-            <mxPoint x="-867" y="581.4590837071512" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JiCuVlNNscT5u4SwGuAm-126" value="weight" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-580" y="574" width="60" height="30" as="geometry" />
         </mxCell>
@@ -938,8 +932,10 @@
         <mxCell id="JTatENgO82JoFKEvwUGx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JiCuVlNNscT5u4SwGuAm-102" target="JiCuVlNNscT5u4SwGuAm-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTatENgO82JoFKEvwUGx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.145;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JiCuVlNNscT5u4SwGuAm-101" target="JiCuVlNNscT5u4SwGuAm-106">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JTatENgO82JoFKEvwUGx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="JiCuVlNNscT5u4SwGuAm-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-661" y="527" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
