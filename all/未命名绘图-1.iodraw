@@ -196,7 +196,7 @@
           <mxGeometry x="-780" y="550" width="160" height="155" as="geometry" />
         </mxCell>
         <mxCell id="JiCuVlNNscT5u4SwGuAm-102" value="LRF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-703" y="574" width="30" height="30" as="geometry" />
+          <mxGeometry x="-702" y="571" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JiCuVlNNscT5u4SwGuAm-103" value="" style="html=1;shape=mxgraph.sysml.flowFinal;strokeWidth=1;verticalLabelPosition=bottom;verticalAlignment=top;" parent="1" vertex="1">
           <mxGeometry x="-705" y="651" width="20" height="20" as="geometry" />
@@ -934,6 +934,9 @@
             <mxPoint x="-836" y="587.33" as="sourcePoint" />
             <mxPoint x="-750.9984769515639" y="586.504524064373" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JTatENgO82JoFKEvwUGx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="JiCuVlNNscT5u4SwGuAm-121" target="JiCuVlNNscT5u4SwGuAm-102">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JiCuVlNNscT5u4SwGuAm-121" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;rotation=-91;" parent="1" vertex="1">
           <mxGeometry x="-774" y="579" width="40" height="20" as="geometry" />
