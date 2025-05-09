@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="o_ZoN4WK4nW82hz7pvnt">
-    <mxGraphModel dx="1617" dy="629" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1545" dy="590" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -201,9 +201,16 @@
         <mxCell id="JiCuVlNNscT5u4SwGuAm-103" value="" style="html=1;shape=mxgraph.sysml.flowFinal;strokeWidth=1;verticalLabelPosition=bottom;verticalAlignment=top;" parent="1" vertex="1">
           <mxGeometry x="-705" y="651" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JiCuVlNNscT5u4SwGuAm-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=0.855;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="JiCuVlNNscT5u4SwGuAm-106" edge="1">
+        <mxCell id="JiCuVlNNscT5u4SwGuAm-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=0.855;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-660" y="720" as="targetPoint" />
+            <mxPoint x="-650" y="728" as="targetPoint" />
+            <mxPoint x="-633.0000000000001" y="679.0409162928488" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-634" y="679" />
+              <mxPoint x="-634" y="706" />
+              <mxPoint x="-649" y="706" />
+              <mxPoint x="-649" y="728" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JiCuVlNNscT5u4SwGuAm-106" value="" style="html=1;shape=mxgraph.sysml.flowFinal;strokeWidth=1;verticalLabelPosition=bottom;verticalAlignment=top;rotation=45;" parent="1" vertex="1">
