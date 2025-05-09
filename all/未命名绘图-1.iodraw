@@ -209,16 +209,6 @@
         <mxCell id="JiCuVlNNscT5u4SwGuAm-106" value="" style="html=1;shape=mxgraph.sysml.flowFinal;strokeWidth=1;verticalLabelPosition=bottom;verticalAlignment=top;rotation=45;" parent="1" vertex="1">
           <mxGeometry x="-653" y="651" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JiCuVlNNscT5u4SwGuAm-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.621;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="JiCuVlNNscT5u4SwGuAm-121" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-710" y="671" as="sourcePoint" />
-            <mxPoint x="-670" y="620" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-729" y="616" />
-              <mxPoint x="-670" y="616" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JiCuVlNNscT5u4SwGuAm-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.145;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JiCuVlNNscT5u4SwGuAm-103" target="JiCuVlNNscT5u4SwGuAm-106" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
